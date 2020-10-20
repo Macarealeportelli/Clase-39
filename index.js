@@ -1,3 +1,5 @@
+//PRIMER EJERCICIO
+
 const arrayDeBandas=["Pink Floyd", "Nirvana", "ac/dc", "Aerosmith", "Pearl jam", "Audioslave"]
 
 const primerBanda = arrayDeBandas[0]
@@ -10,7 +12,7 @@ console.log(`El nombre de la primera banda es ${primerBanda}`)
 console.log(`El nombre de la tercera banda es ${tercerBanda}`)
 console.log(`El nombre de la sexta banda es ${sextaBanda}`)
 
-SEGUNDO EJERCICIO
+// SEGUNDO EJERCICIO
 
 const notas = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
@@ -32,7 +34,7 @@ const calcularPromedio = (notas) => {
 
 console.log(calcularPromedio(notas))
 
-TERCER EJERCICIO
+// TERCER EJERCICIO
 
 const playlist = ["Concrete and Gold", "The Line", "Sunday Rain", "Happy Ever After (Zero Hour)", "Arrows", "Dirty Water", "La Dee Da", "The Sky Is a Neighborhood", "Make It Right", "Run", "T-Shirt"];
 
@@ -53,7 +55,7 @@ const mostrarPlaylistAlReves = (playlist) => {
 
 mostrarPlaylistAlReves(playlist)
 
-CUARTO EJERCICIO
+// CUARTO EJERCICIO
 
 const items = ['watermelon', 'pear', 'banana', 'grapes', 'apple', 'tangerine']
 
